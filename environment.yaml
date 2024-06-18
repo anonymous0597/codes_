@@ -194,4 +194,4 @@ dependencies:
       - yacs==0.1.8
       - yarl==1.9.3
       - zipp==3.17.0
-prefix: /mnt/pfs-mc0p4k/cvg/team/didonglin/conda_envs/mv-vton
+prefix: /mv-vton
