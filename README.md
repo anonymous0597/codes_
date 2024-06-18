@@ -32,7 +32,7 @@ PyTorch implementation of **MV-VTON: Multi-View Virtual Try-On with Diffusion Mo
 
 ```shell
 git clone https://github.com/anonymous0597/codes_.git
-cd Codes
+cd codes_
 ```
 
 2. Install Python dependencies
