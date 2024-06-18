@@ -53,8 +53,10 @@ conda activate mv-vton
 
 #### MVG
 
-1. In order to ensure that it is not used for commercial purposes, the MVG dataset requires filling out a form to obtain it. 
-We will provide the download link in camera ready.
+1. Download [MVG](https://pan.baidu.com/s/19bxZQ4UL-Eoj3rM7j-RrLA?pwd=as12) dataset
+2. Download pre-warped cloth image/mask via [Baidu Cloud](https://pan.baidu.com/s/1cI6lJBfFWtFIktq8Frcg7Q?pwd=as12) and
+   put
+   it under MVG dataset.
 
 After these, the folder structure should look like this (the warp_feat_unpair* only included in test directory):
 
