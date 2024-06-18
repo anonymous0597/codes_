@@ -31,7 +31,7 @@ PyTorch implementation of **MV-VTON: Multi-View Virtual Try-On with Diffusion Mo
 1. Clone the repository
 
 ```shell
-git clone https://github.com/Anonymous0385/Codes.git
+git clone https://github.com/anonymous0597/codes_.git
 cd Codes
 ```
 
